@@ -1105,21 +1105,22 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=5V|NetColor=$00FF6EFF
-Net2=NetName=C4|NetColor=$00FF6E6E
-Net3=NetName=D2|NetColor=$006B6E78
-Net4=NetName=GND|NetColor=$000083FD
-Net5=NetName=NetU?_9|NetColor=$003B4F16
-Net6=NetName=NRST|NetColor=$006EFF6E
-Net7=NetName=Pin1-4|NetColor=$0077204E
-Net8=NetName=Pin1-4_1|NetColor=$006A00A1
-Net9=NetName=Pin15-5|NetColor=$00322760
-Net10=NetName=Pin2-7|NetColor=$00BFBF00
-Net11=NetName=Q7_1|NetColor=$0000ECE9
-Net12=NetName=Q7_2|NetColor=$0000DEB0
-Net13=NetName=SCL|NetColor=clBlue
-Net14=NetName=SDA|NetColor=$0001F1FD
-Net15=NetName=VCC|NetColor=$00FF6EFF
+Net1=NetName=+3.3V|NetColor=$00FF6EFF
+Net2=NetName=5V|NetColor=$00FF6EFF
+Net3=NetName=C4|NetColor=$00FF6E6E
+Net4=NetName=D2|NetColor=$006B6E78
+Net5=NetName=GND|NetColor=$000083FD
+Net6=NetName=NetU?_9|NetColor=$003B4F16
+Net7=NetName=NRST|NetColor=$006EFF6E
+Net8=NetName=Pin1-4|NetColor=$0077204E
+Net9=NetName=Pin1-4_1|NetColor=$006A00A1
+Net10=NetName=Pin15-5|NetColor=$00322760
+Net11=NetName=Pin2-7|NetColor=$00BFBF00
+Net12=NetName=Q7_1|NetColor=$0000ECE9
+Net13=NetName=Q7_2|NetColor=$0000DEB0
+Net14=NetName=SCL|NetColor=clBlue
+Net15=NetName=SDA|NetColor=$0001F1FD
+Net16=NetName=VCC|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

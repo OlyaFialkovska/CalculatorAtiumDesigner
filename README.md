@@ -38,4 +38,4 @@
 Зумер видає короткий сигнал при натисканні.
 Світлодіод індикує активний стан пристрою.
 
-<img width="202" height="284" alt="image" src="https://github.com/user-attachments/assets/1565cc31-7f7b-4dd6-b9ba-5605f353b757" />
+<img width="602" height="684" alt="image" src="https://github.com/user-attachments/assets/1565cc31-7f7b-4dd6-b9ba-5605f353b757" />

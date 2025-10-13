@@ -33,11 +33,9 @@
 
 🧠 Логіка роботи
 Натискання клавіш зчитується через регістри 74HC165.
-
-<img width="1002" height="1084" alt="image" src="https://github.com/user-attachments/assets/1565cc31-7f7b-4dd6-b9ba-5605f353b757" />
-
 Дані передаються у мікроконтролер STM8.
 Після обробки результат відображається на OLED SSD1306 через I2C.
 Зумер видає короткий сигнал при натисканні.
 Світлодіод індикує активний стан пристрою.
 
+<img width="202" height="284" alt="image" src="https://github.com/user-attachments/assets/1565cc31-7f7b-4dd6-b9ba-5605f353b757" />
